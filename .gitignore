@@ -1,0 +1,39 @@
+# Build output
+target/
+build/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env.local
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# Test output
+test-output/
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
