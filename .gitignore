@@ -37,3 +37,7 @@ test-output/
 *.jar
 *.war
 *.ear
+
+# Agent memory & metadata
+.agents/
+
